@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Pterodactyl_Flight.unity
+  isLoaded: 1
+  isActive: 1
