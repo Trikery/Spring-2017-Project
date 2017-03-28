@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Pterodactyl_Flight.unity
+- path: Assets/CameraSwitch.unity
   isLoaded: 1
   isActive: 1
