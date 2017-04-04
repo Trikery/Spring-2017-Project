@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/CameraSwitch.unity
+- path: Assets/Camera Switch/CameraSwitch.unity
   isLoaded: 1
   isActive: 1

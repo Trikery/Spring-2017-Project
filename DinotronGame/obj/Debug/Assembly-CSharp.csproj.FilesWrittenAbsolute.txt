@@ -16,3 +16,6 @@
 /Users/Tyrite/Projects/Game Production/Spring-2017-Project/DinotronGame/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/Tyrite/Projects/Game Production/Spring-2017-Project/DinotronGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/Tyrite/Projects/Game Production/Spring-2017-Project/DinotronGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Tyrite/Projects/Game Production/Spring-2017-Project/DinotronGame/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/Tyrite/Projects/Game Production/Spring-2017-Project/DinotronGame/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Tyrite/Projects/Game Production/Spring-2017-Project/DinotronGame/Temp/bin/Debug/UnityEngine.VR.dll
