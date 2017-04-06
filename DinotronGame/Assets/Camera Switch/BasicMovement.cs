@@ -6,7 +6,7 @@ public class BasicMovement : MonoBehaviour {
 	
 	private CharacterController character;
 	private Vector3 moveVector;   	//reference directional control
-	public float moveSpeed = 3;		//use this to control the speed of the player  (further update: Speed Up Power UP?)
+	public float moveSpeed = 3;//use this to control the speed of the player  (further update: Speed Up Power UP?)
 
 	void Start () {
 		character = GetComponent<CharacterController> ();	//Get Access CharacterController
